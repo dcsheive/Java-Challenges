@@ -14,6 +14,7 @@ class FirstReverse {
   
   public static void main (String[] args) {  
     System.out.print(FirstReverseMethod("Hello")); 
+    System.out.print(FirstReverseMethod("Heck")); 
   }   
   
 }
